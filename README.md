@@ -1,6 +1,6 @@
 # ionic3-chat-rznclt
 
-[Edit this project on StackBlitz](https://stackblitz.com/edit/ionic3-chat-rznclt)
+[Edit this project on StackBlitz](https://stackblitz.com/edit/app-chat-ionic3)
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
